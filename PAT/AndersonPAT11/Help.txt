@@ -1,0 +1,10 @@
+How to check High Scores#The High Score Screen can be accessed on the Main Screen.
+How to play the game#The player must move the Character to the finish point of the level and avoid the obstacles.
+How to login as a new user#When in the login screen, select the sign up button.
+Game Controls#Move the Character side to side with the A & D key and the space key to make the Character jump.
+How to Sign In#Enter your Name and Password in the Login Screen.
+Different Levels in the game#There are three levels in the game, when a player completes a level, they will unlock the next level.
+Basic Mechanics of the Game#When a character collides with a obstacle the character will be transported to the beginning of the level, when the Character collides with the finish point the level is complete.
+How to access the Tutorial Video#A tutorial video is available from the Help Screen, this will explain the basic concept of the game to the user.
+Objective of the Game#The objective of the game is to complete the level in the least amount of time possible.
+How to complete a level#The level is classified as complete when a user gets the character to the end point of a level.
