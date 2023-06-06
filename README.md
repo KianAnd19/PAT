@@ -1,5 +1,4 @@
 # repo
 This is my repo
 
-Website:
-kianand19.github.io
+My Website: [kianand19.github.io](kianand19.github.io)
